@@ -26,7 +26,7 @@ function Home({term, filteredData}) {
   const searchData = term.length<1 ? data:filteredData
   
     return (
-      <>
+      <div className="wrapper">
         <div className="dropdown">
           <select
             value={selectedCategory}
@@ -61,7 +61,7 @@ function Home({term, filteredData}) {
                 )} 
             </div>
         </div>
-      </>
+      </div>
     )
 }
 

@@ -11,19 +11,34 @@
     justify-content: space-around;
     flex-wrap: wrap;
 }
-.dropdown{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.wrapper{
+    margin-top: 20px;
 }
-.dropdown>select{
-    max-width: 200px;
-    border-radius: 6px;
-    height: 30px;
-    margin-top: 10px;
-    color: #111;
+.dropdown {
+    text-align: center;
+    overflow: hidden;
+  }
+.dropdown>select {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
     border: none;
-    outline: none;
-    padding: 5px 10px;
+    font-size: 14px;
+    padding: 7px 14px;
+    width: 150px;
     cursor: pointer;
+    outline: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none; 
+    background-repeat: no-repeat;
+    background-size: 0.5em auto;
+    background-position: right 0.5em center;
+    padding-right: 1em;
+    background-image: url("data:image/svg+xml;charset=utf-8, \
+    <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 60 40'> \
+        <polygon points='0,0 60,0 30,40' style='fill:black;'/> \
+    </svg>");
 }

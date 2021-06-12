@@ -17,7 +17,7 @@
         "id": 3,
         "title": "Washing Machine",
         "price": 9999,
-        "image": "https://lh3.googleusercontent.com/proxy/CSzAKE_3iduyC6SycQUzkuBEChlDKTa45MqoXhmaP1NC7s_fJX-mCVibY871yHI8Ppf-qzYcblFzp39UmUGnVKGBERqchE5HktO22LERKQ4RRH-JBPuX41oGdmDuN2FLORtfqC7rugidhUkzdh_T-e66",
+        "image": "https://lh3.googleusercontent.com/proxy/zy5tQd8s5LUW1dlNB33GgrNBoufKBlSrbCu5o51qsD0rvAZMyYvoI40yOWhOg9sl0pd619nS4Tu2-XV3y9FXtBYMANs94gX_VfofamUvw-D7-HnoCbOtdRN5jvZAI8zaaTM5OaPDB1rUo4LDYjdZzAQk",
         "group": {"category": "Electronics", "id": 3}
     },
     {
@@ -37,7 +37,7 @@
     {
         "id": 6,
         "title": "Air Fryer",
-        "price": 49999,
+        "price": 4999,
         "image": "https://freepikpsd.com/media/2019/10/air-fryer-png-Free-PNG-Images-Transparent.png",
         "group": {"category": "Electronics", "id": 3}
     },
